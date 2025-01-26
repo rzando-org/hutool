@@ -32,7 +32,7 @@
 		<net.version>3.9.0</net.version>
 		<emoji-java.version>5.1.1</emoji-java.version>
 		<servlet-api.version>4.0.1</servlet-api.version>
-		<spring-boot.version>2.7.18</spring-boot.version>
+		<spring-boot.version>3.3.7</spring-boot.version>
 		<cglib.version>3.3.0</cglib.version>
 	</properties>
 
