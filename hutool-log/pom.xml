@@ -29,7 +29,7 @@
 		<tinylog2.version>2.7.0</tinylog2.version>
 		<!-- 此处固定3.4.x，支持到jdk8 -->
 		<jboss-logging.version>3.4.3.Final</jboss-logging.version>
-		<logtube.version>0.45.0</logtube.version>
+		<logtube.version>0.46.2</logtube.version>
 	</properties>
 
 	<dependencies>
